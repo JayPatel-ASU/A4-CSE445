@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <!-- Example hotel from Figure 1 (Tempe, AZ) -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 1. The Venetian -->
+  <Hotel Rating="4.5">
+    <Name>The Venetian</Name>
+    <Phone>702-414-1000</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3355</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 2. Bellagio -->
+  <Hotel Rating="4.7">
+    <Name>Bellagio</Name>
+    <Phone>702-693-7111</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3600</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 3. Caesars Palace -->
+  <Hotel Rating="4.4">
+    <Name>Caesars Palace</Name>
+    <Phone>702-731-7110</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3570</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 4. Wynn -->
+  <Hotel Rating="4.6">
+    <Name>Wynn</Name>
+    <Phone>702-770-7000</Phone>
+    <Phone>702-770-7100</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3131</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 5. Encore -->
+  <Hotel Rating="4.3">
+    <Name>Encore</Name>
+    <Phone>702-770-8000</Phone>
+    <Phone>702-770-8100</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3121</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 6. The Cosmopolitan -->
+  <Hotel Rating="4.5">
+    <Name>The Cosmopolitan</Name>
+    <Phone>702-698-7000</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3708</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 7. Aria -->
+  <Hotel Rating="4.6">
+    <Name>Aria</Name>
+    <Phone>702-590-7111</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3730</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89158</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 8. MGM Grand -->
+  <Hotel Rating="4.2">
+    <Name>MGM Grand</Name>
+    <Phone>702-891-1111</Phone>
+    <Phone>702-891-1112</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3799</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 9. Mandalay Bay -->
+  <Hotel Rating="4.3">
+    <Name>Mandalay Bay</Name>
+    <Phone>702-632-7777</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3950</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89119</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 10. Circus Circus -->
+  <Hotel>
+    <!-- No Rating (optional) -->
+    <Name>Circus Circus</Name>
+    <Phone>702-734-0410</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>2880</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 11. Paris (Las Vegas) -->
+  <Hotel Rating="4.1">
+    <Name>Paris Las Vegas</Name>
+    <Phone>702-946-7000</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>3655</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
